@@ -1,0 +1,12 @@
+## Interface: 110000 110002
+## Title: sArena |cff00c0faLizeUI|r
+## Notes: Enhanced arena frames
+## Author: Stako edit by Lizerius for LizeUI
+## Version: 3.0.0
+## OptionalDeps: ElvUI
+## X-Category: PvP/Arena
+## X-Credits: Stako, Tekkub, Starship, Kouri, Kollektiv, Lyn, haste, evl, Zork, jturel, wardz, yaggertv
+## IconTexture: Interface\ICONS\Achievement_arena_2v2_7
+## SavedVariables: sArena3DB
+
+sArena.xml
