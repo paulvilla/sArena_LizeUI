@@ -9,7 +9,7 @@ layout.defaultSettings = {
     spacing = 15,
     growthDirection = 1,
     specIcon = {
-        posX = 35,
+        posX = 30,
         posY = 14,
         scale = 1.3,
     },
@@ -26,14 +26,14 @@ layout.defaultSettings = {
         fontSize = 14,
     },
     castBar = {
-        posX = -162,
+        posX = -161,
         posY = -14,
         scale = 1.6,
         width = 101,
     },
     dr = {
         posX = -200,
-        posY = 17,
+        posY = 18,
         size = 45,
         borderSize = 1,
         fontSize = 14,
@@ -42,8 +42,8 @@ layout.defaultSettings = {
     },
 
     -- custom layout settings
-    width = 260,
-    height = 72,
+    width = 270,
+    height = 77,
     powerBarHeight = 14,
     mirrored = false,
     classicBars = false,

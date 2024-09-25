@@ -10,7 +10,7 @@ layout.defaultSettings = {
     growthDirection = 1,
     specIcon = {
         posX = -43,
-        posY = 1,
+        posY = 14,
         scale = 1.2,
     },
     trinket = {
@@ -26,14 +26,14 @@ layout.defaultSettings = {
         fontSize = 14,
     },
     castBar = {
-        posX = -141,
+        posX = -140,
         posY = -12,
         scale = 1.6,
         width = 101,
     },
     dr = {
-        posX = -165,
-        posY = 19,
+        posX = -163,
+        posY = 18,
         size = 39,
         borderSize = 1,
         fontSize = 14,
